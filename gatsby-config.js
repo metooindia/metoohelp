@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'MeToo India resources',
   },
+  pathPrefix: `/project-name`,
   plugins: [
     'gatsby-plugin-react-helmet',
     {
