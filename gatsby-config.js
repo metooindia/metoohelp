@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'MeToo India resources',
   },
-  pathPrefix: `/project-name`,
+  // pathPrefix: `/metoohelp`, //not added as using a custom domain
   plugins: [
     'gatsby-plugin-react-helmet',
     {
